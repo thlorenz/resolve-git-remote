@@ -1,0 +1,28 @@
+{
+  "name": "resolve-git-remote",
+  "version": "0.0.0",
+  "description": "Resolves the remote url of the local git repository in the current folder.",
+  "main": "resolve-git-remote.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/resolve-git-remote.git"
+  },
+  "homepage": "https://github.com/thlorenz/resolve-git-remote",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.3"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
