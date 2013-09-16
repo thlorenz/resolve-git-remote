@@ -15,7 +15,7 @@
   "devDependencies": {
     "tap": "~0.4.3"
   },
-  "keywords": [],
+  "keywords": [ "git", "resolve", "remote", "url", "repo", "repository" ],
   "author": {
     "name": "Thorsten Lorenz",
     "email": "thlorenz@gmx.de",
