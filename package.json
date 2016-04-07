@@ -1,6 +1,6 @@
 {
   "name": "resolve-git-remote",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Resolves the remote url of the local git repository in the current folder.",
   "main": "resolve-git-remote.js",
   "scripts": {
